@@ -1,4 +1,5 @@
 Breast Cancer Prediction using K-Nearest Neighbors (KNN)
+
 📋 Project Overview:
 This project aims to predict whether a tumor is benign or malignant using the Breast Cancer Wisconsin dataset and the K-Nearest Neighbors (KNN) algorithm. The project includes both the machine learning backend and a Streamlit frontend where users can input tumor characteristics and get real-time predictions.
 
