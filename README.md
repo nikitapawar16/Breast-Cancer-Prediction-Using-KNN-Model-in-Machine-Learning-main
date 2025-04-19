@@ -54,7 +54,6 @@ The project uses the Breast Cancer Wisconsin dataset, which includes several num
 ## 🤖 Technologies Used
 - Python – Core programming
 - Scikit-learn – ML model, scaling, evaluation
-- Streamlit – Frontend UI
 - Pandas & NumPy – Data manipulation
 - Matplotlib & Seaborn – Data visualization
 
