@@ -40,12 +40,6 @@ The project uses the Breast Cancer Wisconsin dataset, which includes several num
 
 ---
 
-## 🌐 Streamlit Frontend
-- Simple UI for users to input tumor features like clump thickness, cell uniformity, and more
-- Predicts tumor type using the trained KNN model in real-time
-
----
-
 ## 📊 Model Results
 
 **Best Accuracy**: 97.86% (with k=6 and k=7)
